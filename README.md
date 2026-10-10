@@ -1,5 +1,3 @@
-```markdown
-<!-- 🌌 MARTIN WASSIM — GITHUB PROFILE -->
 
 <div align="center">
 
@@ -139,4 +137,4 @@ and opportunities to build technology that makes a difference.
   **"Build with purpose. Learn continuously. Ship solutions."**
 
 </div>
-```
+
