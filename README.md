@@ -1,4 +1,3 @@
-
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:3A86FF,100:00F5D4&height=220&section=header&text=Martin%20Wassim&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Founder&descSize=16&descAlignY=55" width="100%" />
@@ -57,11 +56,17 @@ Java Swing, FastAPI, ChromaDB, Ollama, and REST APIs.
 
 ## 🚀 Featured Projects
 
-### 🎮 Velora — Daily Mission Game
+### 🌐 [Modern Developer Portfolio & Administration Platform](https://github.com/martinwassimx/portfolio-with-admin-panel)
+**Next.js 16 · React 19 · TypeScript · Tailwind CSS · Supabase · PostgreSQL · Generative AI**
+
+A modern, full-stack developer portfolio platform featuring **Smart Portfolio Auto-Fill 2.0** — a CV parsing and AI-assisted content enhancement system that extracts professional information from resumes and helps generate polished biographies and detailed project case studies.
+
+**Key Features:** Smart CV Parsing · AI-Assisted Content Generation · Gemini & OpenAI Integration · Smart Theme Recommendations · Admin Dashboard · Project Management · Customizable Themes
+
+### 🎮 [Velora — Daily Mission Game](https://github.com/martinwassimx/Velora-Game)
 **Next.js · React · TypeScript · Supabase**
 
-A full-stack daily mission platform featuring XP, coins, levels,
-streaks, achievements, leaderboards, and an admin dashboard.
+A full-stack daily mission platform featuring XP, coins, levels, streaks, achievements, leaderboards, and an admin dashboard.
 
 ### ♻️ WasteNet — Waste Classification AI
 **Python · PyTorch · CNN · Vision Transformer**
@@ -137,4 +142,3 @@ and opportunities to build technology that makes a difference.
   **"Build with purpose. Learn continuously. Ship solutions."**
 
 </div>
-
