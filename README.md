@@ -56,29 +56,29 @@ Java Swing, FastAPI, ChromaDB, Ollama, and REST APIs.
 
 ## 🚀 Featured Projects
 
-### 🌐 [portfolio-with-admin-panel](https://github.com/martinwassimx/portfolio-with-admin-panel)
+### 🌐 [Portfolio with AI & Admin Panel](https://github.com/martinwassimx/portfolio-with-admin-panel)
 **Next.js 16 · React 19 · TypeScript · Tailwind CSS · Supabase · PostgreSQL · Generative AI**
 
 A modern developer portfolio and administration platform featuring **Smart Portfolio Auto-Fill 2.0** — a CV parsing and AI-assisted content enhancement system that extracts professional information from resumes and helps generate polished biographies and detailed project case studies.
 
 **Key Features:** Smart CV Parsing · AI-Assisted Content Generation · Gemini & OpenAI Integration · Smart Theme Recommendations · Admin Dashboard · Project Management · Customizable Themes
 
-### 🎮 [Velora-Game](https://github.com/martinwassimx/Velora-Game)
+### 🎮 [Velora Game](https://github.com/martinwassimx/Velora-Game)
 **Next.js · React · TypeScript · Supabase**
 
 A full-stack daily mission game featuring XP, coins, levels, streaks, achievements, leaderboards, and an admin dashboard for mission management and submission reviews.
 
-### ♻️ [Environmental-Waste-Classification](https://github.com/martinwassimx/Environmental-Waste-Classification)
+### ♻️ [Environmental Waste Classification](https://github.com/martinwassimx/Environmental-Waste-Classification)
 **Python · PyTorch · CNN · Vision Transformer**
 
 A deep learning project focused on waste classification, exploring CNN architectures, transfer learning, and Vision Transformers.
 
-### 🧠 [RAG-Powered-Document-Assistant](https://github.com/martinwassimx/RAG-Powered-Document-Assistant)
+### 🧠 [RAG Powered Document Assistant](https://github.com/martinwassimx/RAG-Powered-Document-Assistant)
 **Python · LLM · ChromaDB · FastAPI · Streamlit**
 
 An AI document assistant that answers questions about academic PDFs using semantic search, a vector database, and a local LLM, with citation-backed responses.
 
-### 🏢 [Enterprise-IT-Request-Dashboard](https://github.com/martinwassimx/Enterprise-IT-Request-Dashboard)
+### 🏢 [Enterprise IT Request Dashboard](https://github.com/martinwassimx/Enterprise-IT-Request-Dashboard)
 **C# · ASP.NET Web API · VB.NET · SQL Server**
 
 An enterprise IT ticketing and workflow management system featuring request routing, workflow management, audit tracking, and a responsive web dashboard.
