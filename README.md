@@ -89,11 +89,9 @@ An enterprise IT ticketing and workflow management system featuring request rout
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=martinwassimx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F00FF&icon_color=00F5D4&text_color=FFFFFF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=martinwassimx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F00FF&icon_color=00F5D4&text_color=FFFFFF&hide_rank=true&hide=prs,issues&include_all_commits=true&card_width=380" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinwassimx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F00FF&text_color=FFFFFF" />
-
-  <img src="https://streak-stats.demolab.com?user=martinwassimx&theme=tokyonight&hide_border=true&background=0D1117&ring=7F00FF&fire=00F5D4&currStreakLabel=00F5D4" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinwassimx&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F00FF&text_color=FFFFFF&hide=jupyter%20notebook&langs_count=6" />
 
 </div>
 
