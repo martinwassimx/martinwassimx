@@ -15,7 +15,7 @@
   <a href="mailto:martinwassims@gmail.com">
     <img src="https://img.shields.io/badge/Email-00BFA6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=martinwassimx&color=3A86FF&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=martinwassimx.martinwassimx&left_color=3A86FF&right_color=7F00FF&left_text=PROFILE%20VIEWS" />
 
   <br/><br/>
 
